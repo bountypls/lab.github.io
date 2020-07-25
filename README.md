@@ -1,1 +1,1 @@
-# test.lab.github.io
+# labs.github.io
